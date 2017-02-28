@@ -1,5 +1,5 @@
 # hola-mundo
-local
+local y remoto
 HOLA *1*
 
 MUNDO **2**
