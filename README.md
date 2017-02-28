@@ -2,6 +2,8 @@
 
 estilo
 
+estilo 2
+
 local y remoto
 
 HOLA *1*
